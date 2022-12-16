@@ -20,8 +20,8 @@
 | :-------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------:|
 | [<img src="https://m6.hentaiera.com/021/tidcn64r0p/2.jpg" width="200px" height="auto">](https://github.com/LazZyQu33n) | [<img src="https://m6.hentaiera.com/021/tidcn64r0p/3.jpg" width="200px" height="auto">](https://github.com/LazZyQu33n) |
 
----
 <details>
+ <summary> </summary>
 
 | Miku | Itsuki |
 | :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
@@ -33,7 +33,7 @@
 
 | Yotsuba |
 | :-------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://github.com/LaZyKiiNG/Waifu/blob/main/Assets/Yotsuba.gif" width="150px" height="auto">](https://github.com/LazZyQu33n) |
+| [<img src="https://github.com/LaZyKiiNG/Waifu/blob/main/Assets/Yotsuba.gif" width="140px" height="auto">](https://github.com/LazZyQu33n) |
 
 ---
 
